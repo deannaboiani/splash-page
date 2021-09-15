@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(salmon, cornflowerblue);
+    background: linear-gradient(salmon, cornflowerblue) fixed;
 }
 
 img {
